@@ -4,6 +4,6 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <TextBlock>Something new</TextBlock>
-        <TextBox Margin="25,69,0,0">Test new text something new. Git modification</TextBox>
+        <TextBox Margin="25,69,0,0">Test new text something new. Git modification. VS modification</TextBox>
     </Grid>
 </Window>
