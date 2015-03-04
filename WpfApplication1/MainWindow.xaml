@@ -4,5 +4,6 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <TextBlock>Something new</TextBlock>
+        <TextBox Margin="25,69,0,0">Test</TextBox>
     </Grid>
 </Window>
